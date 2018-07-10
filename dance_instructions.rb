@@ -13,4 +13,4 @@ def lasso
   def bust_a_move
     puts "Be cool, be snazzy!"
   end
-  starting_stance. base_footwork. skip_step(starting_foot). bob_the_reins. lasso. bust_a_move.
+  starting_stance base_footwork skip_step(starting_foot) bob_the_reins lasso bust_a_move
