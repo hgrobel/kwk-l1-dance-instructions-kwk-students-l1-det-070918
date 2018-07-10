@@ -13,6 +13,11 @@ def skip_step(left)
   puts "Bounce #{left} back up slightly, kicking it a few inches back."
   puts "Left, Right, Left and Left."
 end
+def skip_step(right)
+  puts "Lower #{left} to the ground."
+  puts "Bounce #{left} back up slightly, kicking it a few inches back."
+  puts "Left, Right, Left and Left."
+end
 def bob_the_reins 
   puts "Holding your arms out in front of you, straight and at chest level."
   puts "Cross your right wrist over your left and hold them together." 
