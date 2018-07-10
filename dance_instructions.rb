@@ -3,4 +3,5 @@
 def dance_instructions
   starting_stance = "Plant legs far apart, bend knees slightly and keep posture loose."
   base_footwork = "Lift right foot, return right foot to the ground, finishing with a small skip-step backward."
-  skip_step(starting_foot) = 
+  skip_step(starting_foot) = "Lower left foot to the ground,bounce left foot back up slightly, kicking it a few inches back
+Left, Right, Left and Left
