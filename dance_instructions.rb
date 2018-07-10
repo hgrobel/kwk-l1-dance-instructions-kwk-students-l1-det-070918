@@ -6,8 +6,8 @@ end
 def base_footwork 
   puts "Lift right foot, return right foot to the ground, finishing with a small skip-step backward."
 end
-def skip_step
-  puts "Lower left foot to the ground,bounce left foot back up slightly, kicking it a few inches back,left, Right, Left and Left"
+def skip_step(starting_foot)
+  puts "Lower #{starting foot} to the ground,bounce #{starting foot} back up slightly, kicking it a few inches back,left, Right, Left and Left"
 end
 def bob_the_reins 
   puts "Holding your arms out in front of you, straight and at chest level, Cross your right wrist over your left and hold them together, Lift your arms up and down in a loose bouncing movement, in time with the beat of the song. This movement is repeated eight times."
