@@ -8,9 +8,9 @@ def base_footwork
   puts "Return right foot to the ground."
   puts "Finishing with a small skip-step backward."
 end
-def skip_step(starting foot)
-  puts "Lower #{starting foot} to the ground."
-  puts "Bounce #{starting foot} back up slightly, kicking it a few inches back."
+def skip_step(left)
+  puts "Lower #{left} to the ground."
+  puts "Bounce #{left} back up slightly, kicking it a few inches back."
   puts "Left, Right, Left and Left."
 end
 def bob_the_reins 
@@ -30,7 +30,8 @@ end
   
   starting_stance 
   base_footwork 
-  skip_step(right)
+  skip_step("left")
+  skip_step("right")
   bob_the_reins 
   lasso 
   bust_a_move
