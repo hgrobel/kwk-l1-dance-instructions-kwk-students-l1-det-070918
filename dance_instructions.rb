@@ -36,8 +36,9 @@ end
   starting_stance 
   bust_a_move
   base_footwork 
-  skip_step("left")
+  bob_the_reins
+  skip_step("left") 
   skip_step("right")
-  bob_the_reins 
+   
   lasso 
   
