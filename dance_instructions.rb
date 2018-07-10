@@ -31,12 +31,12 @@ end
 end
 
 def gangnam_style  
-  starting_stance 
-  base_footwork 
-  skip_step("right foot") 
-  bob_the_reins
-  skip_step("left foot")
-  lasso
-  bust_a_move
+  puts starting_stance 
+  puts base_footwork 
+  puts skip_step("right foot") 
+  puts bob_the_reins
+  puts skip_step("left foot")
+  puts lasso
+  puts bust_a_move
 end
   
