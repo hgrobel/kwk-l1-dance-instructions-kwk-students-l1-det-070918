@@ -26,8 +26,7 @@ def lasso
   puts "Do this 7 more times!"
 end
   def bust_a_move
-    puts "Be cool!"
-    puts "Be snazzy!"
+    puts "Be cool and be snazzy"
 end
 
 def gangnam_style  
